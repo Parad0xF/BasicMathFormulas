@@ -2,8 +2,7 @@
 <!Document html>
 <html lang="en-Us">
 <head>
-<title> Personal Projects</title>
-<link rel="stylesheet" type="text/css" href="css/readmecss.css">
+<link rel="stylesheet" type="text/css" href="css/readmecss.css"><title></title>
 </head>
     <div>
         <body >
